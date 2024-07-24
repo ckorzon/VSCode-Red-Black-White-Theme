@@ -1,0 +1,26 @@
+{
+  "name": "red-black-white-theme",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "red-black-white-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-black-white.json"
+      }
+    ]
+  },
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "Conrad Korzon",
+  "publisher": "Conrad Korzon",
+  "displayName": "Red Black & White Theme",
+  "icon": "images/logo.png",
+  "license": "ISC",
+  "description": "Red, Black, and White color theme for VS Code"
+}
