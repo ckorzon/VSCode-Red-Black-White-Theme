@@ -9,16 +9,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "red-black-white-theme",
+        "label": "Red Black White Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/red-black-white.json"
       }
     ]
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [],
   "author": "Conrad Korzon",
-  "publisher": "Conrad Korzon",
+  "publisher": "ckorzon",
+  "repository": "https://github.com/ckorzon/VSCode-Red-Black-White-Theme",
   "displayName": "Red Black & White Theme",
   "icon": "images/logo.png",
   "license": "ISC",
